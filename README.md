@@ -1,11 +1,11 @@
 # biblioteczka
 1. Instalacja
-2. 
+   
 a) Sklonuj repozytorium na swój komputer.
 b) Przejdź do katalogu z aplikacją.
 c) ainstaluj zależności, uruchamiając polecenie pip install -r requirements.txt.
 3. Jak używać?
-   
+
 a) Uruchom aplikację, wykonując komendę python app.py lub flask run.
 b) Przejdź do przeglądarki internetowej i wpisz adres http://localhost:5000/book.
 c) Używaj aplikacji zgodnie z instrukcjami na stronie.
