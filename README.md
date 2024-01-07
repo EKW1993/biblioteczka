@@ -1,13 +1,15 @@
 # biblioteczka
 1. Instalacja
-Sklonuj repozytorium na swój komputer.
-Przejdź do katalogu z aplikacją.
-Zainstaluj zależności, uruchamiając polecenie pip install -r requirements.txt.
-2. Jak używać
-Uruchom aplikację, wykonując komendę python app.py lub flask run.
-Przejdź do przeglądarki internetowej i wpisz adres http://localhost:5000/book.
-Używaj aplikacji zgodnie z instrukcjami na stronie.
-3. Tematyka aplikacji
+2. 
+a) Sklonuj repozytorium na swój komputer.
+b) Przejdź do katalogu z aplikacją.
+c) ainstaluj zależności, uruchamiając polecenie pip install -r requirements.txt.
+3. Jak używać?
+   
+a) Uruchom aplikację, wykonując komendę python app.py lub flask run.
+b) Przejdź do przeglądarki internetowej i wpisz adres http://localhost:5000/book.
+c) Używaj aplikacji zgodnie z instrukcjami na stronie.
+5. Tematyka aplikacji
 Jest to aplikacja webowa napisana w języku Python w oparciu o framework Flask.
 Funkcjonalności aplikacji obejmują:
 a) tworzenie nowych wpisów - użytkownik może dodać nową książkę do listy przez wypełnienie formularza i kliknięcie przycisku "Go",
